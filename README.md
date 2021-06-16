@@ -1,4 +1,8 @@
 # kampus-indonesia
+Repository untuk penugasan pra-internship kampus indonesia batch 6
+
+## Screenshot
+![Screenshot](./ss.png?raw=true)
 
 ## Project setup
 ```
